@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl: "https://Gqzhang.github.io/files/Guoqing-Zhang.pdf"
+paperurl: "https://Gqzhang.github.io/files/GuoqingZhang.pdf"
 redirect_from:
   - /resume
 ---
