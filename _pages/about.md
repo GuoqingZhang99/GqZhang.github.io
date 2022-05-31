@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =====
-I am current a Phd Student in Operation Research in North Carolina State University. And I am a recent Financial Mathematics graduate from NCSU. 2 years ago, I enrolled 3+X program (accelerate program) and came to NCSU Applied Mathematics and switched my program to Financial Mathematics.
+I am current a Phd Student in Operation Research in North Carolina State University. And I am a recent Financial Mathematics graduate from NCSU. In 2020, I enrolled 3+X program (accelerate program) and came to NCSU Applied Mathematics and then switched my program to Financial Mathematics.
 
 Education
 =====
