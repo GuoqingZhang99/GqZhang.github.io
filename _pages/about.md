@@ -12,7 +12,7 @@ About me
 =====
 I am current a Phd Student in Operation Research in North Carolina State University. And I am a recent Financial Mathematics graduate from NCSU. 2 years ago, I enrolled 3+X program (accelerate program) and came to NCSU Applied Mathematics and switched my program to Financial Mathematics.
 
-<font color=Blue>Education</font>
+Education
 =====
 * **B.S. in Mathematics and Applied Mathematics, Central South University, 2020**
     - *Main Courses*: Probability Theory, Numerical Analysis, Numerical Optimization, Mathematical Analysis, Time Series, Graph Theoy, Real Analysis, Functional Analysis, Topology, Abstract Algebra, Complex Analysis, PDE, ODE
