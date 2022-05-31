@@ -3,11 +3,12 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl: "http://academicpages.github.io/files/Guoqing-Zhang.pdf"
 redirect_from:
   - /resume
 ---
 
-{% files/Guoqing Zhang.pdf %}
+{% include base_path  %}
 
 Education
 ======
