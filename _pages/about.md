@@ -15,7 +15,7 @@ I am current a Phd Student in Operation Research in North Carolina State Univers
 Education
 =====
 * B.S. in Mathematics and Applied Mathematics, Central South University, 2020
-    - Main Courses: Probability Theory, Numerical Analysis, Numerical Optimization, Mathematical Analysis, Mathematical Programming, Time Series, Graph Theoy, Real Analysis, Functional Analysis, Topology, Abstract Algebra.
+    - Main Courses: Probability Theory, Numerical Analysis, Numerical Optimization, Mathematical Analysis, Time Series, Graph Theoy, Real Analysis, Functional Analysis, Topology, Abstract Algebra, Complex Analysis, PDE, ODE
 * M.S. in Financial Mathematics, North Carolina State University, 2021
     - Main Courses: Investment in Financial Market, Option&Derivative Pricing, Monte Carlo Method, Stochastical Calculus, Finite Element Method in PDE, Finite Differential Method in PDE, Corporate Finance, Financial Statistics and Data Science, Fundamentals of Inference
 * Ph.D in Operation Research, North Carolina State University, 2027 (expected)
