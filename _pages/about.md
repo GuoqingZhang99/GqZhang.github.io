@@ -46,3 +46,7 @@ Publication
 Some project
 =====
 
+Skills
+=====
+* MATLAB
+* Python
