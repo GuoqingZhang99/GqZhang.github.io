@@ -19,10 +19,9 @@ Work experience
 ======
 * Fall 2022: Teaching Assistant
   * North Carolina State University
-/*
- * Duties included: Merging pull requests
- * Supervisor: Professor Hub
-*/
+[//]: #
+ (* Duties included: Merging pull requests
+ * Supervisor: Professor Hub)
   
 Skills
 ======
