@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path  %}
+[Resume](http://academicpages.github.io/files/paper1.pdf)
+======
 
 Education
 ======
