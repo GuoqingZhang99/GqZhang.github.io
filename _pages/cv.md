@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink:  "https://Gqzhang.github.io/files/GuoqingZhang-CV.pdf"
+% /cv/
 author_profile: true
-paperurl: "https://Gqzhang.github.io/files/GuoqingZhang-CV.pdf"
 redirect_from:
   - /resume
 ---
