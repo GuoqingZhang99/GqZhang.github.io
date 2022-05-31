@@ -15,7 +15,7 @@ I am current a Phd Student in Operation Research in North Carolina State Univers
 Education
 =====
 * B.S. in Mathematics and Applied Mathematics, Central South University, 2020
-    -Main Courses: 
+    - Main Courses: 
 * M.S. in Financial Mathematics, North Carolina State University, 2021
 * Ph.D in Operation Research, North Carolina State University, 2027 (expected)
 
