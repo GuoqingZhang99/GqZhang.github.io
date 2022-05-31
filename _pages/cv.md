@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path  %}
 
-[Resume]([http://academicpages.github.io/files/paper1.pdf](https://raw.githubusercontent.com/GuoqingZhang99/Gqzhang.github.io/52fa7f62a303ac2e0714084fb43d90a6703c4af3/files/GuoqingZhang-CV.pdf)
+[Resume]((https://raw.githubusercontent.com/GuoqingZhang99/Gqzhang.github.io/52fa7f62a303ac2e0714084fb43d90a6703c4af3/files/GuoqingZhang-CV.pdf)
 ======
 
 Education
