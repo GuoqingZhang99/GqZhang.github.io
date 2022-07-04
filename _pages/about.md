@@ -26,7 +26,7 @@ Research Interests
 * Numerical Partial Diffirential Equation
 * Financial Mathematics 
 * Machine Learning 
-* Optimazation 
+* Optimization 
 
 Current Work
 ======
