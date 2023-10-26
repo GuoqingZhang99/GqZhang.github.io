@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Guoqing Zhang](https://raw.githubusercontent.com/GuoqingZhang99/Gqzhang.github.io/52fa7f62a303ac2e0714084fb43d90a6703c4af3/files/GuoqingZhang-CV.pdf)"
+title: "[Guoqing Zhang](files/Resume_guoqingZhang.pdf)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
