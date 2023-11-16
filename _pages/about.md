@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =====
-I am currently a Ph.D. Student in Operation Research at North Carolina State University. And I graduated in Financial Mathematics in 2021. In 2020, I enrolled 3+X program (accelerated program) went to Applied Mathematics, and then switched to Financial Mathematics. In my future work, I hope I will make some progress in the Algorithm of optimization and Numerical PDEs.
+I am currently a Ph.D. Student in Operations Research at North Carolina State University. In my future work, I hope I will make some progresses in the Algorithm of optimization and Numerical PDEs.
 
 Education
 =====
@@ -31,7 +31,7 @@ Research Interests
 
 Current Work
 ======
-* Finite Differential Methods on Infinite Domain.
+* Finite Difference Methods on Infinite Domain.
 
 
 Under Review
