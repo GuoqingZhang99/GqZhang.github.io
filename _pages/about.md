@@ -23,9 +23,6 @@ Education
 Research Interests
 ======
 * Numerical Partial Differential Equation
-* 
-* 
-*  
 
 Current Work
 ======
