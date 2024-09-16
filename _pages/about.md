@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Guoqing Zhang](files/Resume_guoqingZhang.pdf)"
+title: "[Guoqing Zhang]"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
